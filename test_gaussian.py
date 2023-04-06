@@ -21,5 +21,4 @@ class SquareTest(unittest.TestCase):
         self.assertEqual(1, 1*1)
 
 if __name__ == "__main__":
-    # You can run this file using:   python unittest_example.py
     unittest.main()
